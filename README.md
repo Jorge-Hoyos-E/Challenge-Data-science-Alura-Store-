@@ -62,4 +62,4 @@ De acuerdo a lo observado en el gráfico de barras, se puede concluir que las cu
 
 Como se puede observar con los gráficos generados tras el análisis de datos, en términos generales se observa que cada tienda tiene buen volumen de venta e ingresos, hay una adecuada rotación de productos, la calificación en cuanto a satisfacción y atención a clientes es igual o muy cercana a 4/5 puntos en cada tienda y los gastos son parecidos.
 
-En este caso, no hay una tienda que destaque negativamente, es decir, que genere perdidas fuertes en cuanto a ingtesos o gastos significativamente mayores; pero si tuviera que elegir una para la optimización del capital y reunir recursos sería la Tienda 4, esto debido a que es la tienda con menor facturación y su volumen de venta no la destaca de las otras.
+En este caso, no hay una tienda que destaque negativamente, es decir, que genere perdidas fuertes en cuanto a ingresos o gastos significativamente mayores; pero si tuviera que elegir una para la optimización del capital y reunir recursos sería la Tienda 4, esto debido a que es la tienda con menor facturación y su volumen de venta no la destaca de las otras.
